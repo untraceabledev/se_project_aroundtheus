@@ -86,7 +86,6 @@
   @media screen and (max-width: 900px) {
     .profile__title {
       text-align: center;
-      white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
       max-width: 230px;
@@ -98,7 +97,6 @@
       text-align: left;
       overflow: hidden;
       text-overflow: ellipsis;
-      white-space: nowrap;
       max-width: 230px;
     }
   
@@ -147,6 +145,7 @@
   
     .profile__avatar {
       margin-right: 0;
+      object-fit: cover;
     }
   
     .profile__button {
