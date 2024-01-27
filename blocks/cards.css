@@ -51,7 +51,7 @@
     .cards {
       grid-template-columns: 1fr;
       grid-template-rows: 6;
-      max-width: calc(100% - 38px);
+      max-width: 282px;
       margin: auto;
     }
   }
