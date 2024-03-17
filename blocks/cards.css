@@ -17,6 +17,7 @@
     background-color: #fff;
     border-radius: 10px;
     overflow: hidden;
+    max-width: 282px;
   }
   
   .cards__footer {

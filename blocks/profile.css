@@ -118,9 +118,6 @@
       margin-bottom: 36px;
       max-width: 196px;
       padding: 0;
-  
-      text-overflow: ellipsis;
-      white-space: nowrap;
     }
     .profile__title {
       font-size: 22px;
@@ -128,8 +125,6 @@
       text-align: center;
       padding: 0;
       max-width: 196px;
-      text-overflow: ellipsis;
-      white-space: nowrap;
     }
   
     .profile__description {
