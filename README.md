@@ -23,6 +23,11 @@ The follolwing tools were used to implement this project:
 * [Link to the project on Github Pages](https://untraceabledev.github.io/se_project_aroundtheus/)  
 
 
+**Video**  
+
+* [Link to the video](https://drive.google.com/file/d/1F7FS1IZI8RbMeCPu58nbXvV77klC4p-V/view?usp=drive_link)  
+
+
 **GIFs**  
 
 Posted below are gifs that show how the webpage respodns to different screen sizes.
